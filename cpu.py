@@ -1,7 +1,6 @@
 # Small CPU created using the RISC-V standard
 
 import struct
-from op_codes import *
 
 memory = [0b0] * 0x1000
 
